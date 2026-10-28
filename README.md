@@ -2,12 +2,12 @@
 
 🎮 Understand your PC. Estimate your FPS. Play smarter.
 
-L'outil open source pour analyser son matériel, estimer ses performances en jeu et mieux comprendre son PC.
+L'outil open source pour analyser son matériel, estimer ses performances en jeu et mieux comprendre son PC
 
-""Open Source" (https://img.shields.io/badge/Open%20Source-Yes-8A2BE2?style=for-the-badge)" (LICENSE)
-""Platform" (https://img.shields.io/badge/Platform-Web-00BFFF?style=for-the-badge)" (#-compatibilité)
-""Status" (https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)" (#-feuille-de-route)
-""Languages" (https://img.shields.io/badge/Language-HTML%20%7C%20CSS%20%7C%20JavaScript-blue?style=for-the-badge)" (#-technologies)
+"Open Source" (https://img.shields.io/badge/Open%20Source-Yes-8A2BE2?style=for-the-badge)
+"Platform" (https://img.shields.io/badge/Platform-Web-00BFFF?style=for-the-badge)
+"Status" (https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
+"Languages" (https://img.shields.io/badge/Language-HTML%20%7C%20CSS%20%7C%20JavaScript-blue?style=for-the-badge)
 
 Gratuit • Open source • Sans installation • Accessible depuis ton navigateur
 
